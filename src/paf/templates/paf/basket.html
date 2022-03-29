@@ -1,0 +1,105 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="fr">
+
+    <head>
+        {% include 'paf/shared/includes.html' %}
+        <title> Mon PAF - Sélection </title>
+    </head>
+
+    <body class="bg-white container-md">
+
+        <!-- En-tete -->
+        {% include 'paf/shared/header.html' %}
+
+        <section class="d-flex flex-wrap justify-content-between align-items-center m-3">
+            <h2> Ma sélection </h2>
+            <div>
+            <a href="{{search_url}}" class="btn btn-link"> Retour aux résultats </a>
+            <button class="btn btn-primary text-light" href="{% url 'paf:basket' %}" id="print">
+                <i class="bi bi-printer"></i>
+                Imprimer
+            </button>
+            </div>
+        </section>
+        <section class="d-flex flex-column">
+        {% for type_candidature in types_candidature %}
+
+            {% if type_candidature.modules %}
+            <h4 class="border-bottom mt-2"> {{ type_candidature.title }} </h4>
+            <p class="mb-0"><em>{{ type_candidature.instructions }}</em></p>
+            {% endif %}
+
+            <section class="d-flex flex-column">
+            {% for module in type_candidature.modules %}
+                <article class="card m-3">
+                    <div class="card-body d-flex flex-column flex-md-row justify-content-between">
+                        <div>
+                            <h5 class="card-title">{{module.dispositif.code}} - {{module.dispositif.libelle}}</h5>
+                            <h6 class="card-subtitle mb-2 text-muted">{{module.code}} - {{module.libelle}}</h6>
+                            <p class="card-text">{{module.contenu|truncatewords:35}}</p>
+                        </div>
+
+                        <div class="d-flex align-items-center m-1">
+                            <button class="btn btn-danger m-1 text-light remove-from-selection" module="{{ module.id }}">
+                                <i class="bi bi-trash"></i>
+                            </button>
+                            <button class="btn btn-primary m-1 text-light" type="button" data-bs-toggle="modal"
+                data-bs-target="#module-{{ module.code }}-{{ module.dispositif.code }}-details" module="{{ module.id }}">
+                                <i class="bi bi-zoom-in"></i>
+                            </button>
+                        </div>
+
+                        <article class="modal fade" id="module-{{ module.code }}-{{ module.dispositif.code }}-details" tabindex="-1" aria-hidden="true">
+
+                            <section class="modal-dialog modal-dialog-scrollable modal-lg">
+                                <!-- Contenu -->
+                                <div class="modal-content">
+
+                                <!-- En-tête -->
+                                <section class="modal-header">
+                                    <h5 class="modal-title"> <small class="text-muted"> {{ module.dispositif.code }} </small> - {{ module.dispositif.libelle }} </h5>
+                                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                </section>
+
+                                <!--Corps -->
+                                <section class="modal-body">
+                                </section>
+
+                                 <!-- Pied de page -->
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary text-light" data-bs-dismiss="modal"> Fermer </button>
+                                </div>
+
+                                </div>
+
+                            </section>
+
+                        </article>
+                    </div>
+                </article>
+            {% endfor %}
+            </section>
+        {% endfor %}
+        </section>
+
+        {% include 'paf/shared/toasts-container.html' %}
+        <!-- Pied de page -->
+        {% include 'paf/shared/footer.html' %}
+
+    </body>
+
+    <script>
+    $("#print").click(function() {
+        window.print();
+    });
+    </script>
+
+    <script>
+    let RELOAD_ON_DELETE = true;
+    </script>
+
+    {% include 'paf/javascript/modal.html' %}
+    {% include 'paf/javascript/selection.html' %}
+</html>

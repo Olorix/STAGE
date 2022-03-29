@@ -1,0 +1,14 @@
+<script>
+    $("[data-bs-toggle='modal']").click(function() {
+        moduleID = $(this).attr('module')
+        modalID = $(this).attr('data-bs-target')
+
+        $.ajax({
+            url: "{% url 'paf:index' %}ajax/module/" + moduleID,
+            success: function(data) {
+                // Remplit le champs des métiers
+                $(modalID + " .modal-body").html(data);
+            }
+        });
+    });
+</script>

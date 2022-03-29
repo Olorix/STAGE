@@ -1,0 +1,47 @@
+<div class="row row-cols-1 row-cols-sm-2">
+
+    <!-- Résumé -->
+    <div class="col-12 col-sm-4 col-lg-3 order-last order-sm-first border-end">
+        <h5> Résumé </h5>
+
+        <dl class="ps-3">
+
+            <!-- Module -->
+            <section class="col d-flex justify-content-start">
+                <dt class="me-2"> <i class="bi bi-bookmark-plus"></i> </dt>
+                <dd> {{ module.code }} </dd>
+            </section>
+
+            <!-- Période -->
+            <section class="col d-flex justify-content-start">
+                <dt class="me-2"> <i class="bi bi-calendar-date"></i> </dt>
+                <dd> {{ module.periode }} </dd>
+            </section>
+
+            <!-- Durée -->
+            <section class="col d-flex justify-content-start">
+                <dt class="me-2"> <i class="bi bi-stopwatch"></i> </dt>
+                <dd> {{ module.duree }} h </dd>
+            </section>
+
+            <!-- Modalité -->
+            <div class="col d-flex justify-content-start">
+                <dt class="me-2"> <i class="bi bi-people"></i> </dt>
+                <dd> {{ module.modalite }} </dd>
+            </div>
+
+        </dl>
+    </div>
+
+    <!-- Détails -->
+    <div class="col-12 col-sm-8 col-lg-9 container">
+        <h4 class="mb-3"> {{ module.libelle }} </h4>
+
+        <h5> Description </h5>
+        <p class=""> {{ module.contenu }} </p>
+
+        <h5> Objectifs pédagogiques </h5>
+        <p class=""> {{ module.objectifs }} </p>
+    </div>
+
+</div>

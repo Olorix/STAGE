@@ -1,0 +1,91 @@
+<aside class="col-12 col-lg-4 col-xl-3 mb-3">
+
+    <div class="card shadow-sm bg-white p-3">
+
+        <!-- Filtres -->
+        <form action="{% url 'paf:search' %}" method="GET" id="search-form">
+          {% csrf_token %}
+
+            <section>
+
+	        <!-- Profil -->
+	        <div class="mb-3">
+	          {% if form.profil.errors %}
+			      <div class="alert alert-danger" role="alert">
+			          {{ form.profil.errors }}
+						</div>
+						{% endif %}
+
+	            {{ form.profil }}
+          </div>
+
+	        <!-- Métier -->
+	        <div class="mb-3">
+	        		{% if form.profil.errors %}
+			      <div class="alert alert-danger" role="alert">
+			          {{ form.metier.errors }}
+						</div>
+						{% endif %}
+
+	          {{ form.metier }}
+	        </div>
+
+            </section>
+
+            <section>
+	        <h3 class="text-center border-primary border-bottom"> Filtres </h3>
+
+            <!-- Recherche par mots-clés -->
+	        <div class="mb-3">
+	          {{ form.searchbar.errors }}
+	          <label for="{{ form.searchbar.id_for_label }}" class="form-label"> Recherche </label>
+	          {{ form.searchbar }}
+	        </div>
+
+            <!-- Theme de formation -->
+	        <div class="mb-3">
+	            {{ form.theme.errors }}
+	            <label for="{{ form.theme.id_for_label }}" class="form-label"> Thèmes </label>
+
+	            <select name="theme" class="form-select" id="id_theme">
+	            <option value="">---------</option>
+	            {% for theme in themes|dictsort:"libelle.lower" %}
+
+	                {% if theme == selected_theme %}
+                        <option value="{{ theme.pk }}" selected> {{ theme.libelle }} </option>
+                    {% else %}
+                        <option value="{{ theme.pk }}"> {{ theme.libelle }} </option>
+                    {% endif %}
+
+                {% endfor %}
+              </select>
+	        </div>
+
+            <!-- Type de candidature -->
+	        <div class="mb-3">
+	            {{ form.type_candidature.errors }}
+	            <label for="{{ form.type_candidature.id_for_label }}" class="form-label"> Type de candidature </label>
+
+	            {% for type_candidature in form.types_candidature %}
+	            <div class="form-check">
+	                {{ type_candidature }}
+	            </div>
+	            {% endfor %}
+	        </div>
+            
+            <div style="display: none;">
+            {{ form.page }}
+            </div>
+            </section>
+
+            <section class="d-grid gap-2 d-md-flex justify-content-md-end mt-3">
+                <!-- Appliquer & réinitialiser -->
+                <button class="btn btn-secondary text-light" id="reset"> Réinitialiser </button>
+                <button class="btn btn-primary text-light" type="submit"> Appliquer </button>
+            </section>
+
+        </form>
+
+    </div>
+
+</aside>

@@ -1,0 +1,931 @@
+code,libelle,type_candidature,type_plan
+20A0200001,CONCOURS DES PERSONNELS DE DIRECTION 2020 - 2021,1,S
+20A0200002,Concours d'inspection 2020 - 2021,1,S
+20A0200003,Agrégation interne en Allemand,1,S
+20A0200004,Agrégation interne en anglais,1,S
+20A0200005,Agrégation interne d'arts plastiques,1,S
+20A0200006,Agrégation interne en éducation musicale,1,S
+20A0200007,Agrégation interne d'EPS,1,S
+20A0200008,Agrégation interne d'économie-gestion,1,S
+20A0200009,Agrégation interne d'espagnol,1,S
+20A0200010,Agrégation interne d' histoire géographie.,1,S
+20A0200011,Agrégation interne de Lettres,1,S
+20A0200012,Agrégation interne de Mathématiques,1,S
+20A0200013,Agrégation interne de Sciences physiques,1,S
+20A0200014,Agrégation interne de SVT,1,S
+20A0200015,Agrégation interne SII,1,S
+20A0200016,CAPES interne de mathématiques,1,S
+20A0200017,CAPES interne de Lettres,1,S
+20A0200018,CAPES interne d'anglais,1,S
+20A0200019,CAPES interne d'espagnol,1,S
+20A0200020,CAPES INTERNE SVT,1,S
+20A0200021,CAPES interne de documentation,1,S
+20A0200022,CAPES INTERNE DE SCIENCES PHYSIQUES,1,S
+20A0200023,CAPET interne S2I,1,S
+20A0200024,CAPEPS Interne en EPS,1,S
+20A0200025,CAPET ET CAPLP INTERNE D&#8217;ÉCONOMIE - GESTION,1,S
+20A0200026,EXAMEN PROFESSIONNEL SAENES CLASSE EXCEPTIONNELLE,1,S
+20A0200027,EXAMEN PROFESSIONNEL D'APAE,1,S
+20A0200028,Concours d'attaché d'administration d'Etat,1,S
+20A0200029,Capes interne d' histoire géographie.,1,S
+20A0200030,Capes interne d'arts plastiques,1,S
+20A0200031,Préparation autres concours internes,1,S
+20A0200457,Réunion préparatoire en arts appliques lp,3,S
+20A0200458,Réunion préparatoire en ses,3,S
+20A0200459,Réunion préparatoire de la dafpen,3,S
+20A0200460,Réunion préparatoire en maths sciences,3,S
+20A0200461,Réunion préparatoire en lv,3,S
+20A0200462,Réunion préparatoire assistantes sociales,3,S
+20A0200463,Réunion préparatoire en allemand,3,S
+20A0200464,Réunion préparatoire en anglais,3,S
+20A0200465,Réunion préparatoire en espagnol,3,S
+20A0200466,Réunion préparatoire en sciences physiques,3,S
+20A0200467,Réunion préparatoire en svt,3,S
+20A0200468,Réunion préparatoire infirmiers (ères),3,S
+20A0200469,Réunion préparatoire Personnel admin. et technique,3,S
+20A0200470,Réunion préparatoire cpe,3,S
+20A0200471,Réunion préparatoire en documentation,3,S
+20A0200472,Réunion préparatoire des fa,3,S
+20A0200473,Réunion préparatoire dane,3,S
+20A0200474,Réunion préparatoire SNT et NSI,3,S
+20A0200475,Réunion préparatoire en technologie,3,S
+20A0200476,Réunion préparatoire en éco-gestion lycée,3,S
+20A0200478,Réunion préparatoire premiers secours,3,S
+20A0200479,Réunion préparatoire Adaptation à l'emploi,3,S
+20A0200480,Réunion préparatoire en mathématiques,3,S
+20A0200481,Réunion préparatoire en biologie,3,S
+20A0200482,Réunion préparatoire en sms,3,S
+20A0200483,Réunion préparatoire en eps,3,S
+20A0200484,Réunion préparatoire en sti-lycée,3,S
+20A0200486,Réunion préparatoire en lettres-histoire,3,S
+20A0200487,Réunion préparatoire en lettres allemand,3,S
+20A0200488,Réunion préparatoire en lettres anglais,3,S
+20A0200491,Réunion préparatoire en sbssa,3,S
+20A0200492,Réunion préparatoire daec,3,S
+20A0200493,Réunion préparatoire daep,3,S
+20A0200494,Réunion préparatoire gestion de classe,3,S
+20A0200496,Réunion préparatoire saio,3,S
+20A0200497,Réunion préparatoire daet,3,S
+20A0200498,Réunion préparatoire edd,3,S
+20A0200499,Réunion préparatoire en histoire-géographie,3,S
+20A0200500,Réunion préparatoire daac,3,S
+20A0200501,Réunion préparatoire en arts plastiques,3,S
+20A0200502,Réunion préparatoire encadrement pedago,3,S
+20A0200503,Réunion préparatoire casnav,3,S
+20A0200505,Réunion préparatoire interdisciplinarité lp,3,S
+20A0200506,Réunion préparatoire en lettres,3,S
+20A0200507,Réunion préparatoire en éducation musicale,3,S
+20A0200509,Réunion préparatoire art,3,S
+20A0200512,Réunions préparatoires Concours administratifs,3,S
+20A0200514,Réunion préparatoire maitrise de la langue,3,S
+20A0200516,Réunion préparatoire formation des stagiaires,3,S
+20A0200518,Réunion préparatoire exercice de l'autorité,3,S
+20A0200519,Réunion préparatoire prépa concours enseignants,3,S
+20A0200520,"Groupe ressource laicité, république, climat",3,S
+20A0200521,Groupe ressource MML Aisne et COPIL,3,S
+20A0200524,Groupe ressource HG Réforme Lycée,3,S
+20A0200526,"Groupe ressource maths, sc-phys, svt, technologie",3,S
+20A0200527,Groupe ressource eps,3,S
+20A0200528,Groupe ressource HG Recherche Enseignement,3,S
+20A0200529,Groupe ressource maths sciences,3,S
+20A0200530,Groupe ressource sbssa,3,S
+20A0200531,Groupe ressource technologie interdegré,3,S
+20A0200532,Groupe ressource lettres histoire,3,S
+20A0200533,Groupe ressource cpe,3,S
+20A0200601,Formation des néo-titulaires en Anglais,3,S
+20A0200602,Formation des néo contractuels en Anglais,3,S
+20A0200603,Contenus et modalités d'enseignement en Anglais,1,S
+20A0200604,Les élèves à besoins particuliers en Anglais,1,S
+20A0200605,Co-enseigner en anglais au lycée,3,S
+20A0200606,La Certification Cambridge,3,S
+20A0200607,Renforcer la liaison Bac pro - BTS en Anglais,3,S
+20A0200608,Entraîner et évaluer en cours d'Anglais,3,S
+20A0200609,La continuité en Anglais au cycle 3,2,D
+20A0200610,L'immersion en langue anglaise au collège,2,S
+20A0200611,L'Anglais au collège dans le cadre de l'option LCE,2,S
+20A0200612,La continuité des apprentissages en Anglais,2,S
+20A0200613,Formation continue:  A.P 2d degré et services,3,S
+20A0200614,FORMATION Membres réseau Santé Sécurité au Travail,3,S
+20A0200615,Formation continue des membres de CHSCT,3,S
+20A0200616,OPERA - REGROUPEMENT STAGIAIRES,3,S
+20A0200617,OPERA - ADAPTATIONS LONGUES,3,S
+20A0200618,OPERA - RECONVERSIONS,3,S
+20A0200619,OPERA - ADAPTATIONS COURTES,3,S
+20A0200620,OPERA - FORMATIONS SPECIFIQUES,3,S
+20A0200621,Nouveaux programmes et évaluation maths sciences,3,S
+20A0200622,Formation continue des Formateurs Premiers Secours,3,S
+20A0200623,CPE et internats de réussite éducative,1,S
+20A0200624,Mathématiques LP : La programmation en python,3,S
+20A0200625,La protection de l'enfance,3,S
+20A0200626,La psychologie de l'adolescent: être élève en 2021,1,S
+20A0200627,Formation Initiale des Formateurs premiers secours,1,S
+20A0200628,Se former au PSC1,1,S
+20A0200629,Formation locale en maths sciences,2,S
+20A0200630,Filiére Maintenance des Véhicules,3,S
+20A0200631,Filière GENIE ELECTRIQUE,3,S
+20A0200632,Filière METIERS DE LA MODE,3,S
+20A0200633,Filière métiers de la Mode,1,S
+20A0200634,Filière Construction Mécanique,1,S
+20A0200635,Filière STI EDPI,3,S
+20A0200636,"PSC1 en établissement, etb avec formateur",2,S
+20A0200637,PSC1 en collège (établissement sans formateur),2,S
+20A0200638,Sensibilisation aux Gestes Qui Sauvent,2,S
+20A0200639,Sensibilisation aux GQS ( étb sans formateur),2,S
+20A0200640,Filière Génie industriel Bois,3,S
+20A0200641,"Filière Ouvrage du Bâtiment OBM ""Métallerie""",3,S
+20A0200642,Filière Génie Civil,3,S
+20A0200643,Filière Chaudronnerie,3,S
+20A0200644,Accompagner le dispositif expérimental cogniclasse,3,S
+20A0200645,Formation des non titulaires en STI LP,3,S
+20A0200646,Apprendre autrement et avec plaisir au CDI,1,S
+20A0200647,Accompagnement et formation des équipes engagées,3,S
+20A0200648,Mettre en oeuvre l'EMI en collège et en lycée,1,S
+20A0200649,Travailler au CDI avec les élèves de LP,3,S
+20A0200650,Actualiser les connaissances en philosophie,1,S
+20A0200651,Allemand et TVP,3,S
+20A0200652,Logiciels applicatifs en technologie,1,S
+20A0200653,Evolution des pratiques pédagogiques,1,S
+20A0200654,Programmation et algorithmique en physique chimie,1,S
+20A0200655,De nouveaux usages au service des apprentissages,3,S
+20A0200656,Nouvelles Modalités d'évaluation Lettres Anglais,3,S
+20A0200657,Prévention de l'illettrisme,3,S
+20A0200658,FORMER AUX NOUVEAUX PROGRAMMES  LYCEE EN LETTRES,3,S
+20A0200659,CONTINUITE DES APPRENTISSAGES EN LETTRES,1,S
+20A0200660,Inclusion des élèves et TICE en Lettres Anglais,1,S
+20A0200661,Développer ses compétences en Lettres Anglais,3,S
+20A0200662,Prévention de l'illettrisme: séminaire académique,3,D
+20A0200663,Formations MDL  interdisciplinaires,2,S
+20A0200664,TVP - Prévention de l'illettrisme au LP,3,S
+20A0200665,TVP - Prévention de l'illettrisme au LP,2,S
+20A0200666,Formation MDL  du Collège au LGT,3,S
+20A0200667,Exploitation des évaluations nationales en 6e,3,S
+20A0200668,EVOLUTION DES PRATIQUES AVEC LES PROGRAMMES,2,S
+20A0200669,SEMINAIRE CAESC,3,S
+20A0200670,Formation des néo-titulaires CPE,3,S
+20A0200671,Formation des néo-contractuels CPE,3,S
+20A0200672,Parcours d'apprentissage en ABIBAC,3,S
+20A0200673,La certification en Allemand,3,S
+20A0200674,Enseigner en DNL hors section européenne,3,S
+20A0200675,Le e-learning,1,S
+20A0200676,Mettre en oeuvre les valeurs de la République.,1,S
+20A0200677,Agir pour les valeurs de la République.,1,S
+20A0200678,Valeurs de la République et  projet d'équipe,2,S
+20A0200679,"Valeurs de la République, EMC et Parcours citoyen.",3,S
+20A0200680,Faire vivre les valeurs de la République à l'école,1,S
+20A0200681,Formation des référents ESR des collèges,3,S
+20A0200682,PACD - FORMATION COMMUNE,3,S
+20A0200683,Egalité filles-garçons et parcours éducatifs,1,S
+20A0200684,PACD - MODULES INFORMATIQUES,3,S
+20A0200685,Formation des nouveaux référents égalité FG,3,S
+20A0200686,Immersion en anglais au Cycle 3 - Oise (FIL),1,D
+20A0200687,FIL Egalité filles garçons,2,S
+20A0200688,Lutte contre l'homophobie et la transphobie,1,S
+20A0200689,"Voix de l'Oise, pas de vie sociale sans les femmes",1,S
+20A0200690,Education à la défense et à la citoyenneté,3,S
+20A0200691,Formations locales collège-lycée en SVT,2,S
+20A0200692,Approfondir les savoirs disciplinaires en SVT,1,S
+20A0200693,Mathématiques : Gérer l'hétérogénéité au collège,1,S
+20A0200694,Réussite et persévérance en EPS au collège,1,S
+20A0200695,Professionnalisation des acteurs S.R.E,3,S
+20A0200696,Formation des Néo-titulaires en allemand,3,S
+20A0200697,ENSEIGNER LES ARTS PLASTIQUES EN CYCLE 3,3,D
+20A0200698,UPE2A et OEPRE : échanges de pratiques,3,S
+20A0200699,Déontologie et valeurs de la République.,3,S
+20A0200700,ENSEIGNER LES ARTS PLASTIQUES EN CYCLE 4,3,S
+20A0200701,Formation des néo-contractuels en Allemand,3,S
+20A0200702,L'iconographie : un levier d'apprentissage,1,S
+20A0200703,"Pratiques théâtrales ,  écriture créative",1,S
+20A0200704,Réussite et persévérance en EPS au lycée et au LP,1,S
+20A0200705,Nouvelles démarches en Histoire-géo EMC au LP,1,S
+20A0200706,Nouveaux programmes et évaluation en HGEMC en LP,3,S
+20A0200707,EMC et film documentaire au LP,2,S
+20A0200708,HGEMC en LP : Préparer les élèves pour les examens,2,S
+20A0200709,Formation aux nouveaux programmes de Lettres en LP,3,S
+20A0200710,"Cours, co-intervention et consolidation en Lettres",3,S
+20A0200711,COMITE PILOTAGE CDESC,3,S
+20A0200712,Préparation au concours infirmier à l'E.N,3,S
+20A0200713,Perfectionnement professionnel des ICT,1,S
+20A0200714,Tutorat infirmiers,3,S
+20A0200715,Continuité collège- lycée en EPS,3,S
+20A0200716,Mathématiques : évaluer par compétences au collège,1,S
+20A0200717,Mathématiques : liaison école collège,2,D
+20A0200718,Préparation du grand oral en mathématiques,1,S
+20A0200719,Mathématiques complémentaires. Enseigner par thème,1,S
+20A0200720,Enseigner au cycle 3 dans l'Aisne,2,D
+20A0200721,Enseigner au cycle 3 dans l'Oise,2,D
+20A0200722,Enseigner au cycle 3 dans la Somme,2,D
+20A0200723,Mathématiques : Pratique des automatismes au Lycée,1,S
+20A0200724,Mathématiques :  gérer l'hétérogénéité en 1ère spé,1,S
+20A0200725,LES DISPOSITIFS RELAIS,3,S
+20A0200726,DNL : Mathématiques en langue étrangère,1,S
+20A0200727,PROMOUVOIR LES  L.C.A. AU COLLEGE ET AU LYCEE,1,S
+20A0200728,ACCOMPAGNER LES EQUIPES EN LETTRES,2,S
+20A0200729,ENSEIGNER LES ARTS PLASTIQUES AU LYCEE,3,S
+20A0200730,Actualisation des connaissances  économie-gestion,1,S
+20A0200731,FIL: Inclusion des EANA et des EFIV,2,S
+20A0200732,Certification complémentaire FLS,1,D
+20A0200733,Inclure les EANA dans toutes les disciplines,1,S
+20A0200734,Habilitation d'examinateurs du DELF scolaire,3,S
+20A0200735,Parcours Magistère: EANA et EFIV,1,S
+20A0200736,Permettre à l'école d'être pleinement inclusive,3,D
+20A0200737,Réussite et évaluation en EPS au lycée et au LP,1,S
+20A0200738,Piloter un PIAL,1,S
+20A0200739,Formation des coordonnateurs Histoire-Géographie,3,S
+20A0200740,Continuité des apprentissages en HG EMC,2,S
+20A0200741,Travailler en équipe en Histoire-géographie.,2,S
+20A0200742,Enseigner l'histoire du cycle 3 au lycée.,1,S
+20A0200743,Enseigner la géographie du cycle 3 au lycée,1,S
+20A0200744,Formation des néo titulaires en HG EMC,3,S
+20A0200745,Formation des néo-contractuels en histoire géo EMC,3,S
+20A0200747,Mathématiques  Lycée Enseignement supérieur,2,S
+20A0200748,Développer l'autonomie de l'élève en lycée,3,S
+20A0200749,Accompagnement des équipes en collège,2,S
+20A0200750,Les dispositifs bi-langues,3,S
+20A0200751,La programmation par blocs de systèmes réels,1,S
+20A0200752,Organiser les débats citoyens en langue étrangère,1,S
+20A0200753,Accompagner les enseignants du collège au lycée,3,S
+20A0200754,La réforme du lycée et l'HG EMC,3,S
+20A0200755,CEMTEC,3,S
+20A0200756,Inter-LV et projets en classes de 3ème,1,S
+20A0200757,Apprendre la collaboration par le jeu,1,S
+20A0200758,Produire des ressources pour les élèves,1,S
+20A0200759,"Kamishibaï, raconter une histoire comme au théâtre",1,S
+20A0200760,L'évaluation au service de l'apprentissage,3,S
+20A0200761,L'évaluation au service des apprentissages en SES,3,S
+20A0200762,Accompagner l'innovation technologique en SVT,1,S
+20A0200763,Formation locale en SVT,2,S
+20A0200764,Mathématiques Accompagnement des équipes en lycée,2,S
+20A0200765,Se préparer à la certification DNL en anglais,1,S
+20A0200766,Histoire des mathématiques,1,S
+20A0200767,Formation des néo-contractuels en mathématiques,3,S
+20A0200768,Se préparer à la certification DNL en Italien,1,S
+20A0200769,Se préparer à la certification DNL en espagnol,1,S
+20A0200770,Les organisations pédagogiques en SVT,1,S
+20A0200771,Former son établissement aux méthodes innovantes,2,S
+20A0200773,Enseigner les SES en classe de seconde,3,S
+20A0200774,Formation des néo-titulaires en EPS,3,S
+20A0200775,Lecture et écriture au CDI,1,S
+20A0200776,FORMATION DES NEO TITULAIRES EN LETTRES (T1 et T2),3,S
+20A0200777,Mise en oeuvre d'une démarche globale de DD,2,S
+20A0200778,Formation des néo titulaires en mathématiques,3,S
+20A0200779,"Opération ""Océan et Climat""",3,S
+20A0200780,EDD : De la Revendication à l'Action,1,S
+20A0200781,Mathématiques : Nouveaux programmes au Lycée,3,S
+20A0200782,FIL interdegrés: inclusion des élèves allophones,2,D
+20A0200783,Accompagner les enseignements artistiques,3,S
+20A0200784,Nouveaux programmes LP,3,S
+20A0200785,Continuité du parcours de l'élève germaniste ,3,S
+20A0200786,La rénovation des diplômes en SBSSA,3,S
+20A0200787,La PSE : nouveaux programmes,3,S
+20A0200788,La réforme de la voie professionnelle - SBSSA,3,S
+20A0200789,Approfondissement - pratiques disciplinaires SBSSA,1,S
+20A0200790,La formation des néo-titulaires en SBSSA.,3,S
+20A0200791,Formation des non titulaires en SBSSA,3,S
+20A0200792,Les élèves à besoins particuliers en SEGPA - SBSSA,1,S
+20A0200793,Journée d'étude en Allemand,1,S
+20A0200794,Journée d'étude en Espagnol,1,S
+20A0200795,L'apport du numérique et des sciences cognitives,1,S
+20A0200796,Solution documentaire : nouveau portail Esidoc V2,1,S
+20A0200797,P(art)AGER - les rencontres,3,S
+20A0200798,Pratiques de l'AP en Collège,1,S
+20A0200799,Utiliser WIMS pour différencier les apprentissages,1,S
+20A0200800,Journée Mathématique de l'IREM,1,S
+20A0200801,Utiliser Python en mathématiques avec l'IREM,1,S
+20A0200802,Mener un entretien,3,S
+20A0200803,Enseigner l'EPS au cycle 3,3,D
+20A0200804,FORMATION INITIALE des ASSISTANTS de PREVENTION,3,S
+20A0200805,Progression commune au Lycée,2,S
+20A0200806,"Accompagner ""Lycéens et apprentis au cinéma""",1,S
+20A0200807,Liaison inter-degrés Aisne / Allemand,3,D
+20A0200808,Liaison inter-degrés Somme / Allemand,3,D
+20A0200809,Se préparer à la certification EIL,1,S
+20A0200810,Formation à l'orientation (FIL),2,S
+20A0200811,Les neurosciences et l'adolescence,3,S
+20A0200812,Prévention du décrochage -le retour dans la classe,3,S
+20A0200813,Valeurs de la République et cycle 3,3,D
+20A0200814,SNT Accompagnement des équipes au Lycée,2,S
+20A0200815,SNT : LE WEB,1,S
+20A0200816,Expérimentation : cours de LV de 45 minutes.,3,S
+20A0200817,SNT : Informatique embarquée et objets connectés,1,S
+20A0200818,Evaluation et E3C en langues vivantes (webinaire),3,S
+20A0200819,La prescription des substituts nicotiniques,3,S
+20A0200820,Usage du numérique et différenciation,2,S
+20A0200821,L'entretien motivationnel,3,S
+20A0200822,Formation départementale des infirmiers,3,S
+20A0200823,"Coordonner le réseau REVE, année 2",3,S
+20A0200824,Entrée dans le métier des infirmiers scolaires,3,S
+20A0200825,Temps fort culturel,1,S
+20A0200826,Elèves HPI,3,S
+20A0200827,Formation des professeurs non titulaires,3,S
+20A0200828,Le tutorat des néo non titulaires,3,S
+20A0200829,Comprendre le Handicap,3,S
+20A0200830,"EAO du collège aux lycées, être CT",3,S
+20A0200831,Le bilan psychologique,3,S
+20A0200832,Journées d'accueil ALVE,3,D
+20A0200833,Formation  pédagogique  des ALVE  du second degré.,3,S
+20A0200834,Intervenants en éducation à la sexualité,3,S
+20A0200835,Enseignements de spécialité en première STI2D,3,S
+20A0200836,Python pour la SNT,1,S
+20A0200837,"Formation d'intervenants au programme ""PRIMAVERA""",3,D
+20A0200838,UNPLUGGED : prévention des conduites addictives,3,S
+20A0200839,NSI : Interface Homme Machine pour le WEB,1,S
+20A0200840,Python pour la NSI,1,S
+20A0200841,Terminale NSI : Bases de données,1,S
+20A0200842,Formation des néo titulaires en SVT,3,S
+20A0200843,Formation des néo titulaires en Economie-Gestion,3,S
+20A0200844,Formation des non titulaires en économie-gestion,3,S
+20A0200845,Pédagogie inclusive de l'HG au collège,3,S
+20A0200846,ACCUEIL DES NOUVEAUX PERSONNELS DU RECTORAT,3,S
+20A0200847,ADAPTATION À L'EMPLOI EN SERVICES DÉCONCENTRÉS,3,S
+20A0200848,ADAPTATION DES NOUVEAUX AGENTS COMPTABLES,3,S
+20A0200849,ADAPTATION DES NOUVEAUX ADJOINTS GESTIONNAIRES,3,S
+20A0200850,ADAPTATION DES PERSONNELS EN AGENCE COMPTABLE,3,S
+20A0200851,ADAPTATION DES SECRÉTAIRES D'INTENDANCE,3,S
+20A0200852,ADAPTATION DES SECRÉTAIRES DE CHEF D'ÉTABLISSEMENT,3,S
+20A0200853,ADAPTATION DES NOUVELLES SECRÉTAIRES D'IEN,3,S
+20A0200854,PROFESSIONNALISATION DES ADJOINTS GESTIONNAIRES,3,S
+20A0200855,EVOLUER VERS LES FONCTIONS DE FONDE DE POUVOIR,1,S
+20A0200856,GESTIONNAIRES D'EPLE_ÉCHANGES DE PRATIQUES PROF,3,S
+20A0200857,PROFESSIONNALISATION_COMPTABLE_GESTIONNAIRE,3,S
+20A0200858,FORMATION PROFESSIONNELLE EN AGENCE COMPTABLE,1,S
+20A0200859,WEBINAIRE BOURSES NATIONALES,3,S
+20A0200860,Actualisation des connaissances en SES,1,S
+20A0200862,La maîtrise de l'oral dans les pratiques en SES,3,S
+20A0200863,Mémoire de l'esclavage,3,S
+20A0200864,Enseignement du 2I2D en Terminale STI2D,3,S
+20A0200866,La spécialité SI dans la voie générale,3,S
+20A0200867,Préparer concours interne d'adjoint administratif,1,S
+20A0200868,Préparer concours interne SAENES cl. N et S,1,S
+20A0200869,Conception de sujet,3,S
+20A0200870,Préparation individuelle à l'oral SAENES Clase Sup,1,S
+20A0200871,"Musique au lycée, didactique et pédagogie",3,S
+20A0200872,Développement des usages du numérique éducatif,1,S
+20A0200873,Vers  climat de classe propice aux apprentissages,1,S
+20A0200874,"Face aux incivilités,favoriser les apprentissages",2,S
+20A0200875,Découvrir des lieux culturels et patrimoniaux,1,S
+20A0200876,Rencontrer un artiste et pratiquer,1,S
+20A0200877,Enseigner l'histoire-géographie au cycle 3,2,D
+20A0200878,STI - Mise en oeuvre des réformes,1,S
+20A0200879,Maîtrise des compétences numériques Lycée - SPC,3,S
+20A0200880,Maîtrise des compétences numériques Collège - SPC,3,S
+20A0200881,Nouvelles pratiques pédagogiques - Physique Chimie,1,S
+20A0200882,Pratiques innovantes - Physique Chimie,3,S
+20A0200883,Réforme du baccalauréat - Physique Chimie,3,S
+20A0200884,Savoir disciplinaire et didactique - SPC - Ci,1,S
+20A0200885,Savoir disciplinaire et didactique - SPC - Sc,3,S
+20A0200886,Formations locales en Physique Chimie,2,S
+20A0200887,Réforme des BTS - Physique Chimie,3,S
+20A0200888,Accompagnement des personnels - SPC,3,S
+20A0200889,Espagnol et rénovation de la voie professionnelle,3,S
+20A0200890,Groupes ressources numériques,3,S
+20A0200891,Formation des néo-titulaires en Educ. musicale,3,S
+20A0200892,Formation des néo contractuels en Educ. musicale,3,S
+20A0200893,Accueil des professeurs et cpe stagiaires août 21,3,S
+20A0200894,Formation stag mi-temps parcours simultané,3,S
+20A0200895,FORMER LES NEO-TITULAIRES EN ARTS PLASTIQUES,3,S
+20A0200896,Formation des stagiaires INSPE à temps complet,3,S
+20A0200897,Accompagnement pédagogique des stagiaires,3,S
+20A0200898,Formation des tuteurs en EPLE,3,S
+20A0200899,Accompagnement des stagiaires (DASR),3,S
+20A0200900,Rencontre tuteurs-stagiaires,3,S
+20A0200901,Formation stag à temps complet parcours simultané,3,S
+20A0200902,CAFFA Préparation à l'admissibilité,3,S
+20A0200903,CAFFA Préparation à l'admission,3,S
+20A0200904,CAFFA Réunion d'information,3,S
+20A0200905,Enseignement Scientifique Accompagner les équipes,2,S
+20A0200906,Enseignement scientifique en Terminale,3,S
+20A0200907,Théâtre en cours d'espagnol,1,S
+20A0200908,Repenser les espaces d'apprentissage en espagnol,1,S
+20A0200909,Liaison collège-lycée en espagnol,3,S
+20A0200910,Accompagner les projets archéologie et patrimoine,3,S
+20A0200911,Famille de métiers en maintenance des véhicules,3,S
+20A0200912,Famille  métiers  l'indus graph ,3,S
+20A0200913, Famille métiers EMNB,3,S
+20A0200914,Famille métiers CDBTP,3,S
+20A0200915,Former les équipes à la généralisation de l'EDD,3,S
+20A0200916,Approches EDD en Interdegré,3,D
+20A0200917,L'espagnol en enseignement de spécialité,3,S
+20A0200918,Pédagogie de projet  au collège en espagnol.,1,S
+20A0200919,Favoriser la dynamique orale en classe d'espagnol.,1,S
+20A0200920,Accompagner les projets arts visuels,3,S
+20A0200921,Accompagner les projets musicaux et chant choral,3,S
+20A0200922,"Ecrire en espagnol, dans et hors la classe.",1,S
+20A0200923,Formation des néo-contractuels en espagnol,3,S
+20A0200924,Formation des néo-titulaires en espagnol,3,S
+20A0200925,Pratiques diversifiées en Education musicale,1,S
+20A0200926,Formation de chefs de choeur,1,D
+20A0200927,Analyse des pratiques professionnelles médecins,3,S
+20A0200928,"Séminaires, colloques intéressant les médecins",3,S
+20A0200929,échange de pratiques professionnelles secrétaires,3,S
+20A0200930,AFGSU niveau 2,3,S
+20A0200931,Les dispositifs pluridisciplinaires de la voie pro,2,S
+20A0200932,Formation des néo-titulaires en maths sciences,3,S
+20A0200933,Formation des contractuels en Maths-Sciences,3,S
+20A0200934,Séminaires nationaux  des BTS Tertiaires,3,S
+20A0200935,Réforme des BTS tertiaires.,3,S
+20A0200936,Formation pédagogique en établissement en eco-gest,2,S
+20A0200937,Réforme du Bac,3,S
+20A0200938,Accompagner les projets cinéma audiovisuels,3,S
+20A0200939,Enseignement scientifique : musique et sciences,1,S
+20A0200940,Accompagner les projets théâtre,3,S
+20A0200941,Evaluer en classe de chinois,3,S
+20A0200942,"Accompagner le dispositif ""Collège au cinéma""",1,S
+20A0200943,Se former à la pédagogie égalitaire,3,S
+20A0200945,Ouverture européenne et internationale,1,D
+20A0200946,Pilotage politique éducative en EPLE,3,S
+20A0200947,Enseigner par compétences en technologie,1,S
+20A0200948,Séquence de résolution de problème en S2I,1,S
+20A0200949,Se former au cinéma en arts plastiques,1,S
+20A0200950,Nouveau programme LGT en SMS,3,S
+20A0200951,Analyse de pratique professionnelle en EPS,1,S
+20A0200953,GROUPES TRAAM,3,S
+20A0200954,FORMER DES FORMATEURS - PROFESSIONNALISATION,3,S
+20A0200955,Formation des néo-contractuels en Lettres,3,S
+20A0200956,Accompagner les projets d'EAC au cycle 3 - Aisne,3,D
+20A0200957,Accompagner les projets d'EAC au cycle 3 - Oise,3,D
+20A0200958,Accompagner les projets d'EAC au cycle 3 - Somme,3,D
+20A0200959,Design et métiers d'art,1,S
+20A0200960,FORMATIONS TUTEURS EPLE EN SOPA ETUDIANTS MEEF,3,S
+20A0200961,AP à l'orientation PP de 3° à l'aide de parcoursup,1,S
+20A0200962,FORMATION  TUTORAT MIXTE EN EPS/SVT/ANLGLAIS/MATHS,3,S
+20A0200963,Formation des contractuels design et métiers d'art,3,S
+20A0200964,Vers une évaluation par compétences partagée,1,S
+20A0200965,Accompagnement des enseignants - PPCR,1,S
+20A0200966,Professionnalisation de formateurs d'adultes INSPE,3,S
+20A0200967,Les outils bureautiques,1,S
+20A0200968,Analyses biochimiques et microbiologiques du lait,1,S
+20A0200969,Mieux réussir son passage au lycée,1,S
+20A0200970,Préparer la Semaine de la Presse et des Médias,1,S
+20A0200971,Créer/améliorer 1 journal scolaire avec ses élèves,1,S
+20A0200972,Séminaire académique en Educ. Médias,1,S
+20A0200973,Pratiquer la webradio scolaire et le podcast,1,S
+20A0200974,Préparation au concours AS,1,S
+20A0200975,Préparation concours CTSS,1,S
+20A0200976,Adaptation à l'emploi des personnels sociaux,3,S
+20A0200977,Colloques concernant les personnels sociaux,3,S
+20A0200978,Régulation des situations familiales - conflits,3,S
+20A0200979,Enfance en danger,1,S
+20A0200980,Sensibilisation au traumatisme psychoaffectif,1,S
+20A0200981,Ecole Inclusive - Formation CAPPEI -Tronc commun,3,D
+20A0200982,ECOLE INCLUSIVE-CAPPEI-PROFESSIONNALISATION,3,D
+20A0200983,La démarche qualité dans les EPLE,3,S
+20A0200984,Les Campus des Métiers et des Qual. : le réseau,3,S
+20A0200985,La Relation Ecole Entreprise,1,S
+20A0200986,Ecole inclusive- CAPPEI- Module Approfondissement,3,D
+20A0200987,Formation des DDFPT,3,S
+20A0200988,Le réglement intérieur,1,S
+20A0200990,L'enquête administrative,1,D
+20A0200991,FIL : L'EMI en établissement,2,S
+20A0200992,Accompagner les résidences de journaliste (dep60),3,S
+20A0200993,"Aborder l'EMI par le biais du jeu, cycles 3-4",1,S
+20A0200994,Mise en oeuvre de la réforme du lycée,3,S
+20A0200995,Formations locales en interdegré,2,D
+20A0200996,Compétences spécifiques des enseignants de BGB,1,S
+20A0200997,Ecologie sonore à l'école et mieux vivre ensemble,1,S
+20A0200998,Séminaire académique en Education Prioritaire,3,S
+20A0200999,"Formation des REP au  programme ""Trouve ta voie""",3,S
+20A0201000,Accompagnement des néo nommés en REP,3,S
+20A0201001,Professionnalisation du faisant fonction Perdir,3,S
+20A0201002,Pilotage de la politique documentaire en EPLE,1,S
+20A0201003,Fonctionnement des Cellules d'écoute et de soutien,3,D
+20A0201004,Méthode PIKAS : prise en charge du harcèlement,3,S
+20A0201005,Génogramme  et historiogramme,3,S
+20A0201006,Analyse des pratiques professionnelles,3,S
+20A0201007,Entretiens motivationnels,3,S
+20A0201008,Accompagner les ateliers artistiques,3,S
+20A0201009,Former les formateurs académiques,3,S
+20A0201010,Lutte contre le harcèlement en EPLE,3,S
+20A0201011,FORMATION DES CADRES PFRH (SAFIRE),3,S
+20A0201012,SAFIRE,3,S
+20A0201013,Formations de proximité,3,S
+20A0201014,Compétences psychosociales et DP en étab (80),3,S
+20A0201015,Apprendre par le jeu en classe d'espagnol,1,S
+20A0201016,CF3A - l'apprentissage en EPLE,3,S
+20A0201017,Le CF3A - L'apprentissage en EPLE,3,S
+20A0201018,Séminaire - L'apprentissage en EPLE,3,S
+20A0201019,Le CF3A et l'apprentissage en mixité,3,S
+20A0201020,DGEMC,3,S
+20A0201021,Formation des contractuels en économie gestion LT,3,S
+20A0201022,Le CF3A et l'apprentissage,3,S
+20A0201023,Référents à la vie lycéenne,3,S
+20A0201024,HABILITATION ÉLECTRIQUE,3,S
+20A0201025,Formation TUTEUR AED 1er et 2nd degré,3,D
+20A0201026,Formation initiale des AESH,3,D
+20A0201027,Accompagner dans l'établissement les équipes,2,S
+20A0201028,CADRES - Mettre en oeuvre les parcours éducatifs,1,S
+20A0201029,Acompagner les projets EAC dans les établissements,3,S
+20A0201030,Outils et activités numériques pour la pédagogie,3,S
+20A0201031,Veille numérique et échanges inter-académiques,3,S
+20A0201032,Formation de formateur à l'ENT,3,S
+20A0201033,Initiatives numériques concrètes et inspirantes,3,S
+20A0201034,Outils numériques et changements de posture,3,S
+20A0201035,Collaborer et échanger grâce au numérique,1,S
+20A0201036,FORMER AUX NOUVEAUX PROGRAMMES  LYCEE EN PHILO,3,S
+20A0201037,La discipline positive et les cadres (80),1,S
+20A0201038,Enseignement du portugais,3,S
+20A0201039,Culture juridique et fondamentaux du droit,3,S
+20A0201040,La déontologie du fonctionnaire,3,S
+20A0201041,Sciences cognitives et apprentissages,3,S
+20A0201042,Formation des néo-titulaires en STI LP,3,S
+20A0201043,Formation des nouveaux chefs d'établissement,3,S
+20A0201044,Séminaire annuel des corps d'inspection,3,S
+20A0201045,Formation des chargés de mission d'inspection,3,S
+20A0201046,La prise de décision en situation complexe,1,S
+20A0201047,Le cadre juridique de l'établissement,1,S
+20A0201048,Management et gestion RH,1,S
+20A0201049,Formation continue des IEN du 1er degré,3,S
+20A0201050,OUVERTURE INTERNATIONALE ERASMUS + 2021/27,3,S
+20A0201051,Formation continue des APS,3,S
+20A0201052,Compétences personnels d'encadrement en anglais,1,S
+20A0201053,Cadres : Immersion en langue anglaise au collège,3,S
+20A0201054,Formation  des EMS,3,S
+20A0201055,Formation initiale des nouveaux APS,3,S
+20A0201056,Accompagnement pédagogique temporaire,3,S
+20A0201057,Formation des INSPECTEURS et PERDIR Promotion 2020,3,E
+20A0201058,Formation des INSPECTEURS et PERDIR Promotion 2019,3,S
+20A0201059,Tutorat des stagiaires de la promotion 2020,3,S
+20A0201060,Formation aux métiers de l'internat,3,S
+20A0201061,Formations transversales des néo titulaires,3,S
+20A0201063,Formation continue des AESH,3,D
+20A0201064,Concevoir et animer une formation avec m@gistère,3,S
+20A0201065,Articuler les différents dispositifs en Lettres,2,S
+20A0201066,Accompagner les référents culture,3,S
+20A0201067,Année des Mathématiques,1,S
+20A0201068,Pour un chef d'oeuvre,3,S
+20A0201070,Enseigner la spécialité LLCE en Anglais,1,S
+20A0201071,SAUVETEUR SECOURISTE du TRAVAIL,3,S
+20A0201072,OPERA - MODULES COMPLEMENTAIRES,3,S
+20A0201073,A la croisée des arts et des sciences,1,S
+20A0201074,Prévention des Risques Professionnels,3,S
+20A0201075,STI-Maintenance véhicules,3,S
+20A0201077,Filière BTP - BOIS - ELEC,3,S
+20A0201078,Filière STI BTP-BOIS-OBM,3,S
+20A0201079,Transformation de la voie professionnelle,3,S
+20A0201081,Ecole inclusive : formation de formateurs,3,D
+20A0201083,Formations Nationales en Education Prioritaire,3,C
+20A0201084,Prévention des Risques liés à l'Activité Physique,3,S
+20A0201085,Formation de formateurs en management des unités éducatives,3,S
+20A0201086,Formation des néo-titulaires en documentation,3,S
+20A0201087,Formation des néo-contractuels en documentation,3,S
+20A0201088,Mathématiques Liaison Collège Lycée,2,S
+20A0201089,Transformation de la voie professionnelle,3,S
+20A0201092,Mise en oeuvre de la réforme du LEGT et du baccalauréat 19-20,3,S
+20A0201093,Formation CAPPEI N-1,3,D
+20A0201094,"RPS -Méthode d'analyse des ""situations-problèmes""",3,S
+20A0201097,La différenciation pédagogique en langues vivantes,1,S
+20A0201098,Evaluation en EPS au lycée et au LP,2,S
+20A0201099,Formation des formateurs en Education Prioritaire,3,S
+20A0201100,Formation des néo-titulaires PLP Lettres-HG,3,S
+20A0201101,Formations locales en collège et en lycée,2,D
+20A0201102,PRÉPARATION CONCOURS HORS ACADÉMIE,3,S
+20A0201103,Frais généraux - ingénierie de formation,3,S
+20A0201104,compte personnel de formation,3,S
+20A0201105,Réunion préparatoire en éco-gestion LP,3,S
+20A0201106,Réunion préparatoire en sti-LP,3,S
+20A0201107,Réunion préparatoire formation des personnels non-titulaires,3,S
+20A0201108,Groupe ressource Maths Evaluation 6ème,3,S
+20A0201109,Groupe ressource SVT,3,S
+20A0201110,Groupe ressource Lettres Anglais,3,S
+20A0201111,Groupe ressource maths interdegré,3,S
+20A0201112,CAPPEI - FORMATION COMPLETE,3,D
+20A0201113,CAPPEI - EPREUVE 1,3,D
+20A0201114,L'évaluation des établissements scolaires,3,E
+20A0201115,Réunion préparatoire à une action de formation,3,S
+20A0201116,FOREDD,3,S
+20A0201117,GROUPE DE RECHERCHE COLLABORATIVE INSPE,3,S
+20A0201118,INNOVATION PÉDAGOGIQUE EN LV,3,S
+20A0201119,STI - Mise en oeuvre des réformes,3,S
+20A0201120,"Le grand oral, Formation de formateurs",3,S
+20A0201121,Développement professionnel des cadres,3,S
+20A0201122,Formation des tuteurs EPLE stage DCA,3,S
+20A0201126,documentalistes/CPE :  autour du parcours citoyen,3,S
+20A0201127,TERRITOIRE ET NUMERIQUE EDUCATIF (AISNE),2,S
+20A0201129,Le grand oral dans les spécialités du bac,3,S
+20A0201130,"Le grand oral, Formation de cadres",3,E
+20A0201132,Webinaire Formation de coordonnateurs en anglais,3,S
+20A0201133,Physique Chimie : Nouveaux programmes de lycée,3,S
+20A0201135,Réunion préparatoire Laïcité Valeurs République,3,S
+20A0201136,INTERVENTIONS FA FORMATION M1 M2,3,S
+20A0201137,Réunion préparatoire du CRESST,3,S
+20A0201138,Formation Tuteur Psy EN,3,S
+20A0201139,Plan français 2d degré,3,D
+20A0201141,Formation des INSPECTEURS et PERDIR Promotion 2018,3,S
+20A0201142,L'enquête administrative,3,E
+20A0201143,Tuteurs des personnels du dispositif OPERA,3,S
+20A0201145,Préparation à la Certification CAPEFE,3,S
+20A0201146,FORMATION OP@LE,3,S
+20A0201147,FORMATION EQUIPES MOBILES AUX TESTS ANTIGENIQUES,3,A
+20A0201148,HOMMAGE A SAMUEL PATY,3,S
+20A0201150,Conception du Plan de formation 21-22,3,S
+20A0201151,TEST DE POSITIONNEMENT CYCLE 4,3,S
+20A0201152,Nouveau référentiel du Bac Pro de la Productique,3,S
+20A0201155,Formation des contractuels en technologie,3,S
+20A0201156,Formation aux nouveaux programmes de Lettres en LP,3,S
+20A0201157,L'évaluation en SVT,3,S
+20A0201158,L'évaluation en STMS,3,S
+20A0201161,Formation des volontaires au service civique,3,S
+20D0020001,La continuité en Anglais au cycle 3,2,D
+20D0020002,Prévention de l'illettrisme: séminaire académique,3,D
+20D0020003,Formation  pédagogique  des ALVE dans l'Aisne.,3,P
+20D0020004,Plan mathématiques,2,P
+20D0020005,Plan Français,2,P
+20D0020006,ENSEIGNER LES ARTS PLASTIQUES EN CYCLE 3,3,D
+20D0020007,Accompagnement des Fonctionnaires stagiaires,3,P
+20D0020008,Formation  des tuteurs terrains,3,P
+20D0020009,Préparation liste aptitude direction d'école,1,P
+20D0020010,Formation des directeurs 2020,3,P
+20D0020011,Formation des directeurs 2021,3,P
+20D0020012,EDUCATION PRIORITAIRE,3,P
+20D0020013,Se préparer au  CAFIPEMF,1,P
+20D0020014,Formations nationales - Séminaires nationaux,3,P
+20D0020015,Formation néo-titulaire,3,P
+20D0020016,Formation continue des directeurs,3,P
+20D0020017,Comités de pilotage FI et FC,3,P
+20D0020018,Animations pédagogiques mathématiques Désigné,3,P
+20D0020019,Enseigner au cycle 3 dans l'Aisne,3,D
+20D0020020,Groupes Missions IEN -EAC,3,P
+20D0020021,Groupes Missions IEN - Mathématiques,3,P
+20D0020022,Groupes Missions IEN - EPS,3,P
+20D0020023,Groupes Missions IEN - Numérique,3,P
+20D0020024,Groupes Missions IEN - Maîtrise de la langue,3,P
+20D0020025,Groupes Missions IEN - Maternelle,3,P
+20D0020026,Animations pédagogiques IENA,3,P
+20D0020027,Animations pédagogiques français Désigné,3,P
+20D0020028,Animations pédagogiques TNE Désigné,3,P
+20D0020029,Formation Initiative Locale  (FIL) - Chorale,2,P
+20D0020030,Formation Initiative Locale  (FIL) - ASH,2,P
+20D0020031,Formation Initiative Locale  (FIL) - Cycle 1,2,P
+20D0020032,Formation Initiative Locale  (FIL) - Circo,2,P
+20D0020033,Formation directeurs faisant fonction d'intérim,3,P
+20D0020034,Culture de l'analyse des résultats des élèves CAP,2,P
+20D0020035,Ecole et musée - cycles 1 à 3,1,P
+20D0020036,Ecole et cinéma - cycles 1 à 3,1,P
+20D0020037,Enseigner les langues vivantes,3,P
+20D0020038,"Maternelle, école du langage,  de l'épanouissement",3,P
+20D0020039,Certification complémentaire FLS,1,D
+20D0020040,Permettre à l'école d'être pleinement inclusive,3,D
+20D0020041,Animations pédagogiques Cycle 2 Château-Thierry,3,P
+20D0020042,Animations pédagogiques Cycle 2 Chauny,3,P
+20D0020043,Animations pédagogiques Cycle 2 Guise,3,P
+20D0020044,Animations pédagogiques Cycle 2 Hirson,3,P
+20D0020045,Animations pédagogiques Cycle 2 Laon,3,P
+20D0020046,Animations pédagogiques Cycle 2 Laonnois,3,P
+20D0020047,Animations pédagogiques Cycle 2 Saint-Quentin,3,P
+20D0020048,Animations pédagogiques Cycle 2 Saint-Quentin Nord,3,P
+20D0020049,Animations pédagogiques Cycle 2 Soissons Centre,3,P
+20D0020050,Animations pédagogiques Cycle 2 Soissonnais,3,P
+20D0020051,Animations pédagogiques Cycle 2 Tergnier,3,P
+20D0020052,Animations pédagogiques Cycle 2 Villers-Cotterêts,3,P
+20D0020053,Animations pédagogiques Cycle 3 Château-Thierry,3,P
+20D0020054,Animations pédagogiques Cycle 3 Chauny,3,P
+20D0020055,Animations pédagogiques Cycle 3 Guise,3,P
+20D0020056,Animations pédagogiques Cycle 3 Hirson,3,P
+20D0020057,Animations pédagogiques Cycle 3 Laon,3,P
+20D0020058,Animations pédagogiques Cycle 3 Laonnois,3,P
+20D0020059,Animations pédagogiques Cycle 3 Saint-Quentin,3,P
+20D0020060,Animations pédagogiques Cycle 3 Saint-Quentin Nord,3,P
+20D0020061,Animations pédagogiques Cycle 3 Soissons Centre,3,P
+20D0020062,Animations pédagogiques Cycle 3 Soissonnais,3,P
+20D0020063,Animations pédagogiques Cycle 3 Tergnier,3,P
+20D0020064,Animations pédagogiques Cycle 3 Villers-Cotterêts,3,P
+20D0020065,La semaine des mathématiques 2021,1,P
+20D0020066,Semaine académique de l'école maternelle 2021,1,P
+20D0020067,Les fondamentaux - Apprendre ailleurs et autrement,1,P
+20D0020068,Webdiffusions,3,P
+20D0020069,FIL interdegrés: inclusion des élèves allophones,2,D
+20D0020070,Apprentissages fondamentaux de la lecture SIFODEM,3,P
+20D0020071,Enseigner l'EPS au cycle 3,3,D
+20D0020072,Liaison inter-degrés Aisne / Allemand,3,D
+20D0020073,Journées d'accueil ALVE,3,D
+20D0020074,"Formation d'intervenants au programme ""PRIMAVERA""",3,D
+20D0020075,Ecole inclusive : formation de formateurs,3,D
+20D0020076,ENIR 3 et l'ENT au service des apprentissages,2,P
+20D0020077,Se former au PSC1,1,P
+20D0020078,100 % de réussite au CP-CE1 dédoublés,1,P
+20D0020079,"La voix, mon instrument de travail",1,P
+20D0020080,Renforcement de l'enseignement des LV,1,P
+20D0020081,Ouverture européenne et internationale,1,D
+20D0020082,Formation CAPPEI N-1,3,D
+20D0020083,Accompagner les projets d'EAC au cycle 3 - Aisne,3,D
+20D0020084,Ecole Inclusive - Formation CAPPEI -Tronc commun,3,D
+20D0020085,Ecole Inclusive-CAPPEI-Module Professionnalisation,3,D
+20D0020086,Activités créatives -  concours dis-moi dix mots,1,P
+20D0020087,Ecole inclusive- CAPPEI- Module Approfondissement,3,D
+20D0020088,Inclusion  ambition pour les élèves de SEGPA,3,P
+20D0020089,1er poste en ASH,3,P
+20D0020090,Inclusion des élèves d'UE en milieu ordinaire,3,P
+20D0020091,Favoriser l'inclusion des élèves ULIS école-Nord,3,P
+20D0020092,Formations de proximité en interdegré,3,D
+20D0020093,Pratiques innovantes-veille péda en Ulis collège ,3,P
+20D0020094,Pratiques innovantes-veille péda en Ulis Lycée,3,P
+20D0020095,Inclusion des élèves en ULIS TSA,3,P
+20D0020096,"Kamishibaï, raconter une histoire comme au théâtre",1,P
+20D0020097,Conception d'un Escape Game pédagogique,1,P
+20D0020098,Fonctionnement des Cellules d'écoute et de soutien,3,D
+20D0020099,Formation initiale des AESH,3,D
+20D0020100,CAPPEI - parcours particuliers,3,P
+20D0020101,Formation continue des AESH,3,D
+20D0020102,Se préparer à la certification complémentaire DNL,1,P
+20D0020107,Animations pédagogiques Numériques candidatures individuelles,1,P
+20D0020108,Animations pédagogiques mathématiques candidatures individuelles,1,P
+20D0020109,Animations pédagogiques français CANDIDATURES INDIVIDUELLES,1,P
+20D0600001,La continuité en Anglais au cycle 3,2,D
+20D0600002,Prévention de l'illettrisme: séminaire académique,3,D
+20D0600003,certification complémentaire DNL 1er degré,1,P
+20D0600004,Immersion en anglais au Cycle 3 - Oise (FIL),1,D
+20D0600005,ENSEIGNER LES ARTS PLASTIQUES EN CYCLE 3,3,D
+20D0600006,Enseigner au cycle 3 dans l'Oise,3,D
+20D0600007,Plan Mathématiques,3,P
+20D0600008,Plan Français,3,P
+20D0600012,Permettre à l'école d'être pleinement inclusive,3,D
+20D0600013,Enseigner l'EPS au cycle 3,3,D
+20D0600014,Valeurs de la République et cycle 3,3,D
+20D0600015,Journées d'accueil ALVE,3,D
+20D0600016,Enseigner l'histoire-géographie au cycle 3,2,D
+20D0600017,Ecole inclusive : formation de formateurs,3,D
+20D0600018,Ecole inclusive : outils et partage,3,D
+20D0600020,Approches EDD en Interdegré,3,D
+20D0600026,Formations de formateurs,3,P
+20D0600027,Groupes de pilotage départemental,3,P
+20D0600028,Accompagnement éducateurs sportifs et CPC,3,P
+20D0600029,Formation des coordonnateurs REP et REP PLUS,3,P
+20D0600030,Agir sur le climat scolaire (pour formateurs),3,P
+20D0600031,Formation statutaire des directeurs,3,P
+20D0600032,Admission 2021 : Préparation aux épreuves CAFIPEMF,3,P
+20D0600033,Admissibilité 2021 : Préparation au CAFIPEMF,3,P
+20D0600034,Admission 2022 : Préparation aux épreuves CAFIPEMF,3,P
+20D0600035,Education Prioritaire,3,P
+20D0600036,Formation initiale et entrée dans le métier,3,P
+20D0600037,Coordonnateurs UE,3,P
+20D0600038,Formation des psychologues EDA,3,P
+20D0600039,Formation en RASED,3,P
+20D0600040,Formation des enseignants référents (ERSEH),3,P
+20D0600041,Formation des directeurs de SEGPA,3,P
+20D0600042,Formation PE SEGPA,3,P
+20D0600043,Prévention et secours civiques PSC1,1,P
+20D0600044,Danse à l'école dans l'Oise,3,P
+20D0600045,Formation de chefs de choeur,1,D
+20D0600046,PSPC : Partenaires Scientifiques Pour la Classe,3,P
+20D0600047,Accueillir des élèves allophones dans sa classe,1,P
+20D0600048,"Réunion psychologues EDA, personnels RASED, ERSEH",3,P
+20D0600049,École inclusive pour PE du milieu ordinaire,1,P
+20D0600050,AESH : Module spécifique PSC1,3,P
+20D0600051,AESH : Modules spécifiques,3,P
+20D0600052,Formation Ecole et Cinéma,3,P
+20D0600053,Des oeuvres exposées à la création d'oeuvres,1,P
+20D0600054,Formations EPS,1,P
+20D0600055,Stage des remplaçants,3,P
+20D0600056,Histoire/Géographie,1,P
+20D0600057,Formations en EMC,1,P
+20D0600058,LV Stage de formation 21 jours M1 DCA,3,P
+20D0600059,Formations en maternelle,1,P
+20D0600060,Formations en Sciences,3,P
+20D0600061,Agir sur le climat scolaire,3,P
+20D0600062,Formation Journée de Solidarité,1,P
+20D0600063,Formation pédagogique des ALVE dans l'Oise,3,P
+20D0600064,Formation Règlementaire REP PLUS,3,P
+20D0600065,Formation Règlementaire REP,3,P
+20D0600066,Ouverture européenne et internationale,1,D
+20D0600067,Formation CAPPEI N-1,3,D
+20D0600068,Accompagner les projets d'EAC au cycle 3 - Oise,3,D
+20D0600069,Ecole Inclusive - Formation CAPPEI -Tronc commun -  AMIENS,3,D
+20D0600070,Ecole Inclusive-CAPPEI-Module Professionnalisation-  AMIENS,3,D
+20D0600071,Ecole inclusive- CAPPEI- Module Approfondissement -  AMIENS,3,D
+20D0600072,"Formation "" Education au Cinéma et à l'image "" CNC",3,P
+20D0600073,EDUCATION PRIORITAIRE,3,D
+20D0600074,Soutien aux stagiaires CAPPEI,3,P
+20D0600075,Formations Nationales en Education Prioritaire,3,D
+20D0600076,Visites formation T1/PES par les tuteurs terrain,3,P
+20D0600077,Formation des tuteurs terrain / PES,3,P
+20D0600078,Comité de pilotage de la formation des PES,3,P
+20D0600079,Dispositif personnalisé d'accompagnement (DPA),3,P
+20D0600080,Bilans de formation des PES,3,P
+20D0600081,Préparation aux  épreuves du CRPE,3,P
+20D0600082,Formation initiale des AESH,3,D
+20D0600083,Formation continue des AESH,3,D
+20D0600085,Enseignants nouvellement nommés dans l'ASH,3,P
+20D0600086,Formation des coordonateurs des ULIS,3,P
+20D0600087,EREA formation inter catégorielle,3,P
+20D0600088,Préparation au CAPPEI INSHEA,3,P
+20D0600089,Préparation au CAPPEI,3,P
+20D0600090,EMS,3,P
+20D0600091,Préparation au DDEEAS,3,P
+20D0600092,Certification complémentaire FLS,1,P
+20D0600093,AUNEUIL FORMATION DE PROXIMITE,2,P
+20D0600094,BEAUVAIS NORD FORMATION DE PROXIMITE,2,P
+20D0600095,BEAUVAIS SUD FORMATION DE PROXIMITE,2,P
+20D0600096,CLERMONT FORMATION DE PROXIMITE,2,P
+20D0600097,COMPIEGNE FORMATION DE PROXIMITE,2,P
+20D0600098,CREIL FORMATION DE PROXIMITE,2,P
+20D0600099,CREPY FORMATION DE PROXIMITE,2,P
+20D0600100,GOUVIEUX FORMATION DE PROXIMITE,2,P
+20D0600101,GRANDVILLIERS FORMATION DE PROXIMITE,2,P
+20D0600102,MARGNY FORMATION DE PROXIMITE,2,P
+20D0600103,MERU FORMATION DE PROXIMITE,2,P
+20D0600104,NOGENT FORMATION DE PROXIMITE,2,P
+20D0600105,NOYON FORMATION DE PROXIMITE,2,P
+20D0600106,PONT FORMATION DE PROXIMITE,2,P
+20D0600107,ST JUST FORMATION DE PROXIMITE,2,P
+20D0600108,SENLIS FORMATION DE PROXIMITE,2,P
+20D0800001,Se préparer à la certification DNL 1er degré.,1,P
+20D0800002,formation des directeurs faisant fonction,3,P
+20D0800003,Abbeville -  Animations pédagogiques C2 module 3,3,P
+20D0800004,P.Marquenterre - Animation pédagogique C2 Module 3,3,P
+20D0800005,Doullens - Animations pédagogiques C2 Module 3,3,P
+20D0800006,Péronne - Animations pédagogiques C2 Module 3,3,P
+20D0800007,Montdidier - Animations pédagogiques C2 module 3,3,P
+20D0800008,Amiens Centre Somme - Anim. péda. C2 module 3,3,P
+20D0800009,Amiens Nord - Animations pédagogiques C2 module 3,3,P
+20D0800010,Amiens Ouest - Animations pédagogiques C2 Module 3,3,P
+20D0800011,Amiens Sud - Animations pédagogiques C2 Module 3,3,P
+20D0800012,Amiens Sud Ouest - Animations pédagogiques,3,P
+20D0800013,FS - Animations pédagogiques,3,P
+20D0800014,T1 - Animations pédagogiques,3,P
+20D0800015,Formation spécifique T2,3,P
+20D0800016,formation  des directeurs d'école,3,P
+20D0800017,CAFIPEMF - Phase d'admissibilité,3,P
+20D0800018,CAFIPEMF - Phase d'admission,3,P
+20D0800019,Accompagnement des fonctionnaires stagaires  ou T1,3,P
+20D0800020,Partenariat INSP,3,P
+20D0800021,Accompagnement des MAT,3,P
+20D0800022,Formation des nouveaux CPC,3,P
+20D0800023,Formation des formateurs,3,P
+20D0800024,Groupe de travail des formateurs de terrain,3,P
+20D0800025,Formation continue des MAT,1,P
+20D0800026,formation continue des directeurs d'école,3,P
+20D0800027,Enseigner la natation aux cycles 2 et 3,3,P
+20D0800028,T1 - Enseigner la natation,3,P
+20D0800029,Formation Maitre accueil en EPS,3,P
+20D0800030,Formation des CP en charge du dossier EPS,3,P
+20D0800031,Formation sécurité incendie et évacuation,3,P
+20D0800032,Formation au PSC1,1,P
+20D0800033,Enseigner la natation aux cycles 2 et 3,1,P
+20D0800034,Débuter en ASH,3,P
+20D0800035,Enseignement en langues EMILE,3,P
+20D0800036,Plan Mathématiques,3,P
+20D0800037,ROMA Somme,3,P
+20D0800038,Le calcul dans tous ses aspects,1,P
+20D0800039,Prévention de l'illettrisme: séminaire académique,3,D
+20D0800040,Formation  pédagogique  des ALVE dans la Somme.,3,P
+20D0800041,Plan Français,3,P
+20D0800042,ENSEIGNER LES ARTS PLASTIQUES EN CYCLE 3,3,D
+20D0800043,Mathématiques : liaison école collège,2,D
+20D0800044,Enseigner au cycle 3 dans la Somme,3,D
+20D0800045,Abbeville -  Animations pédagogiques C3 module 3,3,P
+20D0800046,Vimeu - Animations pédagogiques C3 Module 3,3,P
+20D0800047,Amiens Centre Somme - Anim. péda C3 Module 3,3,P
+20D0800048,P.Marquenterre - Animation pédagogique C3 Module 3,3,P
+20D0800049,Doullens - Animations pédagogiques C3 Module 3,3,P
+20D0800050,Péronne - Animations pédagogiques C3 Module 3,3,P
+20D0800051,Montdidier - Animations pédagogiques C3 module 3,3,P
+20D0800052,Amiens Nord - Animations pédagogiques C3 module 3,3,P
+20D0800053,Amiens Sud - Animations pédagogiques C3 Module 3,3,P
+20D0800054,Amiens Sud Ouest - Anim. pédagogiques C3 module 3,3,P
+20D0800055,Animations pédagogiques Mathématiques,3,P
+20D0800056,Animations pédagogiques Français,3,P
+20D0800057,Amiens Ouest - Animation pédagogique C3 Module 3,3,P
+20D0800058,Animations pédagogiques Cycle 1,3,P
+20D0800059,Certification complémentaire FLS,1,D
+20D0800060," "" Raconte ta ville """,3,P
+20D0800061,"Vivre au bord de l'eau, vivre avec les inondations",3,P
+20D0800062,Permettre à l'école d'être pleinement inclusive,3,D
+20D0800063,Formation T3 nommés en maternelle,3,P
+20D0800064,Formation de proximité GS en circonscirption,3,P
+20D0800065,Gérer les élèves avec difficultés de comportement.,1,P
+20D0800066,Choeur départemental,3,P
+20D0800067,Liaison inter-degrés Somme / Allemand,3,D
+20D0800068,Valeurs de la République et cycle 3,3,D
+20D0800069,Journées d'accueil ALVE,3,D
+20D0800070,Accompagnement des coordonnateurs d'ULIS,3,P
+20D0800071,Ecole inclusive : formation de formateurs,3,D
+20D0800072,Ecole inclusive : outils et partage,3,D
+20D0800073,Accompagnement des enseignants d'UE,3,P
+20D0800074,Ecrire : du scénario à la production visuelle.,1,P
+20D0800075,ENT,3,P
+20D0800076,Algorithmique et robotique,1,P
+20D0800077,Former les nouveaux tuteurs CAPPEI,3,P
+20D0800078,Formation CAPPEI N-1,3,D
+20D0800079,Accompagner les projets d'EAC au cycle 3 - Somme,3,D
+20D0800080,Faire verbaliser les procédures des élèves,1,P
+20D0800081,Ecole Inclusive - Formation CAPPEI -Tronc commun,3,D
+20D0800082,Ecole Inclusive-CAPPEI-Module Professionnalisation,3,D
+20D0800083,Ecole inclusive- CAPPEI- Module Approfondissement,3,D
+20D0800084,EDUCATION PRIORITAIRE,3,D
+20D0800085,L'enquête administrative,1,D
+20D0800086,Formations de proximité en interdegré,3,D
+20D0800087,Accompagner les coordonnateurs dans leurs missions,3,P
+20D0800088,Enseignants nommés en éducation prioritaire,3,P
+20D0800089,Formations Nationales en Education Prioritaire,3,D
+20D0800090,Fonctionnement des Cellules d'écoute et de soutien,3,D
+20D0800091,Accompagner les équipes en maternelle,1,P
+20D0800092,Accompagner les enseignants en REP plus,3,P
+20D0800093,Expérimentation GS,3,P
+20D0800094,Agir sur le climat scolaire,1,P
+20D0800095,Education aux Médias et à l'Information EMI,1,P
+20D0800096,Formation TUTEUR AED 1er et 2nd degré,3,D
+20D0800097,Formation initiale des AESH,3,D
+20D0800098,formation DDEEAS,3,P
+20D0800099,T2 - Animations pédagogiques,3,P
+20D0800100,CAPPEI INSHEA,3,P
+20D0800101,Formation continue des AESH,3,D
+20D0800102,Vimeu - Animations pédagogiques C2 module 3,3,P

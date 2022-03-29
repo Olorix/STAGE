@@ -1,0 +1,102 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="fr">
+
+    <head>
+        {% include 'paf/shared/includes.html' %}
+        <title> Mon PAF - Index </title>
+    </head>
+
+    <body class="bg-white container-md">
+
+        <!-- En-tete -->
+        {% include 'paf/shared/header.html' %}
+
+        <div class="row">
+        {% include 'paf/search/filters.html' %}
+
+            <!-- Résultats -->
+            <div class="col">
+                <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-2 row-cols-xl-3 row-cols-xxl-3 g-2 mb-3">
+                {% include 'paf/search/cards.html' %}
+
+                </div>
+            </div>
+
+        </div>
+
+        <nav aria-label="..." class="d-flex w-100 justify-content-center">
+            <ul class="pagination">
+
+                {% if active_page != pages|first %}
+
+                <li class="page-item">
+                    <button class="page-link" tabindex="-1" type="submit" page='{{active_page|add:"-1"}}' form="search-form">Précédent</button>
+
+                </li>
+                {% else %}
+                <li class="page-item disabled">
+                    <button class="page-link" tabindex="-1" type="submit" page='{{active_page|add:"-1"}}' form="search-form">Précédent</button>
+                </li>
+                {% endif %}
+
+                {% for page in pages %}
+
+                {% if page == active_page %}
+                <li class="page-item active"><button class="page-link" type="submit" form="search-form" page="{{page}}">{{page}}</button></li>
+                {% else %}
+                <li class="page-item"><button class="page-link" type="submit" form="search-form" page="{{page}}">{{page}}</button></li>
+                {% endif %}
+
+                {% endfor %}
+
+                {% if active_page != pages|last %}
+                <li class="page-item">
+                    <button class="page-link" type="submit" page='{{active_page|add:"1"}}' form="search-form">Suivant</button>
+                </li>
+                {% else %}
+                <li class="page-item disabled">
+                    <button class="page-link" type="submit" page='{{activate_page|add:"1"}}' form="search-form">Suivant</button>
+                </li>
+                {% endif %}
+
+            </ul>
+        </nav>
+
+
+
+        {% include 'paf/shared/toasts-container.html' %}
+        <!-- Pied de page -->
+        {% include 'paf/shared/footer.html' %}
+
+    </body>
+
+    <!-- Remplissage du pop-up de détail -->
+    {% include 'paf/javascript/modal.html' %}
+    {% include 'paf/javascript/selection.html' %}
+    {% include 'paf/javascript/reset.html' %}
+
+    <!-- Remplissage de la liste des métiers -->
+    <script>
+    // Quand l'utilisateur choisi son profil
+    $("#id_profil").change(function() {
+
+        // Récupère les métiers correspondants
+        $.ajax({
+            url: "{% url 'paf:index' %}ajax/metier/" + $("#id_profil").val(),
+            success: function(data) {
+                // Remplit le champs des métiers
+                $("#id_metier").html(data);
+            }
+        });
+    });
+    </script>
+
+    <script>
+    $(".page-link").click(function() {
+        $("#id_page").val( $(this).attr('page') );
+    });
+    </script>
+
+</html>

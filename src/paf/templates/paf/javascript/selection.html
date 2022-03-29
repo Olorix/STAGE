@@ -1,0 +1,60 @@
+<!-- Ajout d'un module à la sélection de l'utilisateur -->
+<script>
+$(".add-to-selection").click(function() {
+    // Récupère l'id du module
+    moduleID = $(this).attr('module')
+
+    // Envoie le module à ajouter la sélection
+    $.ajax({
+        type: 'GET',
+        xhrFields: {
+            withCredentials: true
+        },
+            url: "{% url 'paf:add_to_selection' %}",
+        data: {"module": moduleID},
+        success: function(data) {
+
+            // Créer et affiche le pop-up de validation
+            $(".toast-container .toast").remove();
+            $(".toast-container").append(data);
+            $(".toast-container .toast").toast('show');
+        }
+    });
+
+    $(this).hide();
+    $(this).siblings(".remove-from-selection").show();
+});
+</script>
+
+<!-- Retire un module de la sélection -->
+<script>
+$(".remove-from-selection").click(function() {
+    // Récupére l'id du module
+    moduleID = $(this).attr('module')
+
+    // Envoie le module à retirer de la sélection
+    $.ajax({
+        type: 'GET',
+        xhrFields: {
+            withCredentials: true
+        },
+        url: "{% url 'paf:remove_from_selection' %}",
+        data: {"module": moduleID},
+        success: function(data) {
+            // Créer et affiche le pop-up de validation
+            $(".toast-container .toast").remove();
+            $(".toast-container").append(data);
+            $(".toast-container .toast").toast('show');
+
+            // Recharge la page dans le panier
+            if (typeof RELOAD_ON_DELETE !== 'undefined') {
+                location.reload(true);
+            }
+
+        }
+    });
+
+    $(this).hide();
+    $(this).siblings(".add-to-selection").show();
+});
+</script>

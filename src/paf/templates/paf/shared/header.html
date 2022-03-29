@@ -1,0 +1,71 @@
+{% load static %}
+
+<header class="pb-3">
+
+    <!-- Bannière -->
+    <section id="header-banner" class="d-none d-md-flex align-items-center">
+        <img src="{% static 'paf/images/logo.jpg'%}" alt="Logo de l'académie" height="200px">
+        <h1 class=""> Plan académique de formation </h1>
+    </section>
+
+    <!-- Barre de navigation -->
+    <nav class="navbar navbar-expand-md navbar-light bg-white">
+        <div class="container-fluid">
+
+            <!-- Logo réduit -->
+            <a class="navbar-brand d-md-none" href="#">
+                <img src="{% static 'paf/images/small-logo.svg'%}" alt="" height="32">
+            </a>
+
+            <!-- Bouton burger -->
+            <button class="navbar-toggler rounded-circle p-2" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navigation-list" aria-controls="navigation-list" aria-expanded="false">
+                <i class="bi bi-list"></i>
+            </button>
+
+            <!-- Liste de navigation -->
+            <div class="collapse navbar-collapse" id="navigation-list">
+                <div class="container-fluid d-flex justify-content-between 
+                    flex-column flex-md-row">
+
+
+                    <ul class="navbar-nav">
+
+                        <!-- Lien acceuil -->
+                        <li class="nav-item border-bottom mx-2">
+                            <a class="nav-link" href="{% url 'paf:index' %}"> Accueil </a>
+                        </li>
+
+                        <!-- Lien GAIA -->
+                        <li class="nav-item border-bottom mx-2">
+                            <a class="nav-link" target="_blank" href="https://portail.ac-amiens.fr/mdp/redirectionhub/redirect.jsp?applicationname=gaia_priv"> GAIA </a>
+                        </li>
+
+                        <!-- Lien Contacts -->
+                        <li class="nav-item border-bottom mx-2">
+                            <a class="nav-link" target="_blank" href="https://www.ac-amiens.fr/786-delegation-academique-a-la-formation-des-personnels-de-l.html"> Contact </a>
+                        </li>
+
+                        <!-- En savoir plus -->
+                        <li class="nav-item border-bottom mx-2">
+                            <a class="nav-link" target="_blank" href="https://www.ac-amiens.fr/184-formation-tout-au-long-de-la-vie.html"> En savoir plus </a>
+                        </li>
+
+                    </ul>
+
+                    <!-- Bouton panier -->
+                    <ul class="navbar-nav mt-3 mt-md-auto">
+                        <li class="d-grid">
+                            <a class="btn btn-primary text-light" href="{% url 'paf:basket' %}">
+                                <i class="bi bi-bag"></i>
+                                Ma sélection
+                            </a>
+                        </li>
+                    </ul>
+
+                </div>
+            </div>
+
+        </div>
+    </nav>
+</header>

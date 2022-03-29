@@ -1,0 +1,92 @@
+
+{% for module in modules %}
+<article class="col">
+
+    <div class="card h-100 shadow-sm">
+
+        <div class="card-body d-flex flex-column">
+
+            <!-- Badge-->
+            <span class="badge rounded-pill bg-primary align-self-start text-wrap mb-2">
+                {{ module.theme.libelle }}
+            </span>
+
+            <!-- Type de candidature -->
+            <small class="mb-0"> <span class="text-success"> {{ module.dispositif.type_candidature.libelle }}</span></small>
+
+            <!-- Titre -->
+            <h5 class="card-title"> {{ module.libelle }} </h5>
+
+            <!-- Informations -->
+            <dl class="ps-3 mb-0">
+
+                <!-- Période -->
+                <section class="d-flex justify-content-start">
+                    <dt class="me-2"> <i class="bi bi-calendar-date"></i> </dt>
+                    <dd class="text-black-50"> {{ module.periode }} </dd>
+                </section>
+
+                <!-- Durée -->
+                <section class="d-flex justify-content-start">
+                    <dt class="me-2"> <i class="bi bi-stopwatch"></i> </dt>
+                    <dd class="text-black-50"> {{ module.duree }} h </dd>
+                </section>
+
+                <!-- Modalité -->
+                <div class="d-flex justify-content-start">
+                    <dt class="me-2"> <i class="bi bi-people"></i> </dt>
+                    <dd class="text-black-50"> {{ module.modalite }} </dd>
+                </div>
+
+            </dl>
+
+            <!-- Objectif -->
+            <p class=""> {{ module.contenu|truncatewords:20}} </p>
+
+            <!-- En savoir plus -->
+            <button class="btn btn-primary text-light align-self-end mt-auto w-100" type="button" data-bs-toggle="modal"
+                data-bs-target="#module-{{ module.code }}-{{ module.dispositif.code }}-details" module="{{ module.id }}">
+                En savoir plus
+            </button>
+
+            <article class="modal fade" id="module-{{ module.code }}-{{ module.dispositif.code }}-details" tabindex="-1" aria-hidden="true">
+
+                <section class="modal-dialog modal-dialog-scrollable modal-lg">
+                    <!-- Contenu -->
+                    <div class="modal-content">
+
+                    <!-- En-tête -->
+                    <section class="modal-header">
+                        <h5 class="modal-title"> <small class="text-muted"> {{ module.dispositif.code }} </small> - {{ module.dispositif.libelle }} </h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </section>
+
+                    <!--Corps -->
+                    <section class="modal-body">
+                    </section>
+
+                     <!-- Pied de page -->
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary text-light" data-bs-dismiss="modal"> Fermer </button>
+                        {% if module.id not in selected_modules %}
+                        <button type="button" class="btn btn-primary text-light add-to-selection" module="{{ module.id }}" data-bs-dismiss="modal"> Ajouter à ma sélection </button>
+
+                        <button type="button" class="btn btn-danger text-light remove-from-selection" module="{{ module.id }}" style="display: none;" data-bs-dismiss="modal"> Retirer de ma sélection </button>
+                        {% else %}
+                        <button type="button" class="btn btn-primary text-light add-to-selection" module="{{ module.id }}" style="display: none;" data-bs-dismiss="modal"> Ajouter à ma sélection </button>
+
+                        <button type="button" class="btn btn-danger text-light remove-from-selection" module="{{ module.id }}" data-bs-dismiss="modal"> Retirer de ma sélection </button>
+                        {% endif %}
+                    </div>
+
+                    </div>
+
+                </section>
+
+            </article>
+        </div>
+
+    </div>
+
+</article>
+{% endfor %}

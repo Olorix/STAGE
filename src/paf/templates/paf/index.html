@@ -1,0 +1,114 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="fr">
+
+    <head>
+        {% include 'paf/shared/includes.html' %}
+        <title> Mon PAF - Index </title>
+    </head>
+
+    <body class="bg-white container-md">
+
+        <!-- En-tete -->
+        {% include 'paf/shared/header.html' %}
+
+        <!-- Bannière -->
+        <div id="banner" class="container-fluid d-flex mb-4">
+
+            <div class="p-3 flex-fill bg-secondary d-flex align-items-center justify-content-center flex-column">
+
+	        <h2 class="d-inline border-bottom border-light text-light"> Qui êtes-vous ? </h2>
+
+            </div>
+
+            <img class="d-none d-md-block" src="{% static 'paf/images/banner.jpg'%}" alt="" height="256">
+
+        </div>
+
+        <!-- Formulaire --->
+        <form action="{% url 'paf:search' %}" method="GET" class="container-fluid p-3" >
+        {% csrf_token %}
+
+            <!-- Profils -->
+            <div class="d-flex justify-content-center flex-wrap mb-3"
+                id="profil">
+
+                {{ form.profil.errors }}
+
+                {% for profil in profil_list %}
+                <button type="button" class="btn btn-primary text-light m-1" id="{{ profil.code }}">
+	                {{ profil.libelle }}
+	            </button>
+                {% endfor %}
+
+            </div>
+
+            <!-- Champs chachés -->
+            <div class="mb-3" style="display: none;">
+                {{ form.profil }}
+                {{ form.types_candidature }}
+                {{ form.theme }}
+                <input type="number" name="page" min="1" required="" id="id_page" value="1">
+            </div>
+
+            <!-- Métier -->
+            <div class="mb-3" style="display: none;" id="metier">
+                {{ form.metier.errors }}
+                {{ form.metier }}
+            </div>
+
+            <!-- Validation -->
+            <section class="d-flex justify-content-center">
+                <button class="btn btn-primary text-light mt-3" type="submit" style="display: none;">
+                    Valider mon profil
+                </button>
+            </section>
+
+        </form>
+
+        <!-- Axes -->
+        <section class="d-flex flex-wrap justify-content-evenly mt-5">
+
+            <article style="width: 200px;">
+                <img class="rounded-circle d-block mx-auto" src="{% static 'paf/images/axes/ico-1.jpg'%}">
+                <p class="text-center">Se situer dans le système éducatif</p>
+            </article>
+
+            <article style="width: 200px;">
+                <img class="rounded-circle d-block mx-auto" src="{% static 'paf/images/axes/ico-2.png'%}">
+                <p class="text-center">Se perfectionner et adapter ses pratiques professionnelles</p>
+            </article>
+
+            <article style="width: 200px;">
+                <img class="rounded-circle d-block mx-auto" src="{% static 'paf/images/axes/ico-3.png'%}">
+                <p class="text-center text-wrap">Être accompagné dans son évolution professionnelle et valoriser ses compétences</p>
+            </article>
+
+        </section>
+
+        <!-- Pied de page -->
+        {% include 'paf/shared/footer.html' %}
+    </body>
+
+    <script>
+    // Quand l'utilisateur choisi son profil
+    $("#profil button").click( function() {
+
+        // Mettre à jour le formulaire
+        $("#id_profil").val(this.id);
+
+        // Récupère les métiers correspondants
+        $.ajax({
+            url: "{% url 'paf:index' %}ajax/metier/" + $("#id_profil").val(),
+            success: function(data) {
+                // Remplit le champs des métiers
+                $("#id_metier").html(data);
+
+                // Afficher le champs métier et le bouton de validation
+                $("#metier, button[type='submit']").show();
+            }
+        });
+    });
+    </script>
+</html>

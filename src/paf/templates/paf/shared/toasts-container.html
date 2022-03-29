@@ -1,0 +1,13 @@
+<div aria-live="polite" aria-atomic="true">
+  <div class="toast-container position-fixed bottom-0 start-50 translate-middle-x m-5">
+
+  </div>
+</div>
+
+<!-- Active les "Toast" de la page -->
+<script>
+var toastElList = [].slice.call(document.querySelectorAll('.toast'))
+var toastList = toastElList.map(function (toastEl) {
+  return new bootstrap.Toast(toastEl, option)
+})
+</script>

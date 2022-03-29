@@ -1,0 +1,3 @@
+{% for metier in profil.metier_set.all|dictsort:"libelle.lower" %}
+<option value="{{ metier.id }}"> {{ metier.libelle }} </option>
+{% endfor %}
